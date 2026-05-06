@@ -123,38 +123,6 @@ principles:
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="170" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&hide_current_streak=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="700" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
-
-</div>
-
----
-
-## 🚀 Featured Work
-
-<div align="center">
-
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)](https://github.com/YOUR_USERNAME/REPO_NAME_1)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)](https://github.com/YOUR_USERNAME/REPO_NAME_2)
-[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)](https://github.com/YOUR_USERNAME/REPO_NAME_3)
-[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)](https://github.com/YOUR_USERNAME/REPO_NAME_4)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -166,19 +134,6 @@ principles:
 </picture>
 
 </div>
-
----
-
-## 🛠️ Currently
-
-```python
-class Praj:
-    role         = "Chief Product @ Exo"
-    next_chapter = "Microsoft FA Intern, Summer '26"
-    building     = ["Exo's RBAC architecture", "personal data infra projects"]
-    learning     = ["systems design at scale", "cloud architecture", "ML pipelines"]
-    hot_take     = "the best product decisions come from people who can read both the data and the room."
-```
 
 <div align="center">
 
